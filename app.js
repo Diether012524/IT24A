@@ -1,6 +1,6 @@
 // Data Types
 let number = 15;
-let text = "Hello";
+let text = "Hello ";
 let isActive = true;
 let array = [1, 2, 3, 4, 5];
 let person = { name: 'Diether', age: 19 };
